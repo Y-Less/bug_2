@@ -1,0 +1,10 @@
+{
+	"user": "Y-Less",
+	"repo": "bug_2",
+	"entry": "test.pwn",
+	"output": "test.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib",
+		"Y-Less/bug_1"
+	]
+}
